@@ -1,0 +1,32 @@
+<!-- Página educativa - copiar en Landing Pages o alojar externamente --><!DOCTYPE html><html lang="es"><head>
+  <meta charset="utf-8"/>
+  <title>Alerta de seguridad</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <style>
+    body { font-family: Arial, sans-serif; background:#fff; color:#111; padding:24px; }
+    .container { max-width:700px; margin:40px auto; }
+    h1 { color:#c12; }
+    .box { background:#f8f9fa; padding:20px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.05); }
+    ul { margin-top:10px; }
+    .tip { margin-top:12px; font-weight:600; color:#0b5ed7; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>¡HEY, TEN CUIDADO!</h1>
+    <div class="box">
+      <p>Has sido redirigido a esta página como parte de un ejercicio educativo sobre phishing. Esto significa que el enlace que seguiste simuló ser un correo real para evaluar la atención al identificar riesgos.</p>
+
+      <p>Recomendaciones:</p>
+      <ul>
+        <li>Verifica siempre la dirección del remitente.</li>
+        <li>No ingreses credenciales en páginas sin confirmar su origen.</li>
+        <li>Contacta al soporte oficial si dudas de un correo.</li>
+      </ul>
+
+      <p class="tip">Este ejercicio fue realizado con fines educativos. Si quieres más información o un entrenamiento, contacta al administrador del laboratorio.</p>
+    </div>
+  </div>
+
+
+</body></html>
